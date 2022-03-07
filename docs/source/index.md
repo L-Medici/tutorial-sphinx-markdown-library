@@ -9,13 +9,20 @@
 :relative-images:
 ```
 
-```{warning}
+{doc}`usage` direct link to content part 
 
+{ref}`Installation` direct link to subsection of something in the content
+
+
+
+```{warning}
 Work in progress
 ```
 
 ```{toctree}
 :caption: 'Contents:'
-:maxdepth: 2
+:maxdepth: 3
+
+usage
 ```
 
