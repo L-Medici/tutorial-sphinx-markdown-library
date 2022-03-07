@@ -24,5 +24,6 @@ Work in progress
 :maxdepth: 3
 
 usage
+notebooks/tutorial
 ```
 
