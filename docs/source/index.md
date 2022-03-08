@@ -21,7 +21,7 @@ Work in progress
 
 ```{toctree}
 :caption: 'Contents:'
-:maxdepth: 3
+:maxdepth: 5
 
 usage
 notebooks/tutorial
